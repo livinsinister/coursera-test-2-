@@ -1,35 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@livinsinister
-faheemzunjani /
-Coursera-WebDev-JHU-Assignments
-
-9
-30
-
-    404
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-Coursera-WebDev-JHU-Assignments/module-5-solution/js/script.js /
-@faheemzunjani
-faheemzunjani Update links to https
-Latest commit c42acf0 on Jul 13, 2016
-History
-1 contributor
-347 lines (288 sloc) 11.2 KB
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   // Same as document.querySelector("#navbarToggle").addEventListener("blur",...
@@ -376,18 +344,3 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
